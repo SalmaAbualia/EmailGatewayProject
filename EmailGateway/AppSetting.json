@@ -1,0 +1,4 @@
+{
+    "ConnStringEmail": "Server = .; Database = EmailGateway; Trusted_Connection = True; Integrated Security = SSPI; TrustServerCertificate = True",
+    "ConnStringMarketing": "Server = MARKETINGDB\\MARKETINGDB; Database = A2A_iMessaging; Trusted_Connection = True; Integrated Security = SSPI; TrustServerCertificate = True; User ID = sa; Password = suser;"
+}
